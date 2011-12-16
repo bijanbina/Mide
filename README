@@ -1,0 +1,9 @@
+----------------------------- Besme allah Rahman Rahim -----------------------------------------
+
+Mide
+===================================================================
+• it's a desktop enviroment like gnome and kde that base on clutter
+  name of mide relevent to Modern Islamic Desktop Enviroment
+  
+for install just run bottom command in terminal:
+autoreconf -i;./configure;make;sudomake install

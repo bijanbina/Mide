@@ -1,0 +1,9 @@
+bin_PROGRAMS = Mide
+
+Mide_SOURCES = main.cpp
+
+Mide_CFLAGS = $(CLUTTER_CFLAGS)
+
+Mide_CXXFLAGS = $(CLUTTER_CFLAGS)
+
+Mide_LDFLAGS = $(CLUTTER_LIBS)
