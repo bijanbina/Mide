@@ -1,0 +1,9 @@
+bin_PROGRAMS = bijan
+
+bijan_SOURCES = bijan.cpp
+
+bijan_CFLAGS = $(CLUTTER_CFLAGS)
+
+bijan_CXXFLAGS = $(CLUTTER_CFLAGS)
+
+bijan_LDFLAGS = $(CLUTTER_LIBS)
